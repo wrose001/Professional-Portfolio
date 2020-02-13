@@ -1,0 +1,19 @@
+body {
+    background-image: url(images/close-up-photo-of-painting-3219951.jpg) !important;
+  }
+
+.whiteBackground {
+    background-color: white;
+}
+
+.btn-primary {
+    background-color: #FF0000 !important;
+}
+
+.nbg-company-red {
+    background-color: #FF0000;
+}
+
+.redWords {
+    color: #FF0000;
+}
