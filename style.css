@@ -1,13 +1,88 @@
 body {
-    background-image: url(images/close-up-photo-of-painting-3219951.jpg) !important;
+    background-image: url(images/levi-midnight-fLAwX_7iUTY-unsplash.jpg) !important;
   }
 
 .whiteBackground {
     background-color: white;
 }
+.btn {
+    background-color: transparent !important;
+    color: #FF0000 !important;
+    border: #FF0000 solid 2px !important;
+    width: 240px;
+    height: 80px;
+    font-size: 20px !important;
+    font-weight: bold !important;
+    display: block !important;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+/* 
+button {
+    transform: translate(-50%, -50%);
+}
+
+button:focus {
+    outline: none;
+}
+
+button:before {
+    content: '';
+    /* display: block;
+    position: absolute; */
+    /* background: #FF0000;
+    width: 60px;
+    height: 100px;
+    left: 0;
+    top: 0;
+    opacity: .5s;
+    filter: blur(30px);
+    transform: translateX(-130px) skewX(-15deg);
+} */
+
+/* button:after {
+    content: '';
+    /* display: block;
+    position: absolute; */
+    /* background: #FF0000;
+    width: 30px;
+    height: 100%;
+    left: 30px;
+    top: 0;
+    opacity: 0;
+    filter: blur(30px);
+    transform: translate(-100px) scaleX(-15deg);
+} */ */
+
+/* button:hover {
+    background: #FF0000;
+    cursor: pointer;
+} */
+
+/* button:hover:before {
+    transform: translateX(300px) skewX(-15deg);
+    opacity: .6;
+    transition: .7s;
+} */
+
+/* button:hover:after {
+    transform: translateX(300px) skewX(-15deg);
+    opacity: .6;
+    transition: .7s;
+} */ */
 
 .btn-primary {
-    background-color: #FF0000 !important;
+    background: none !important;
+    border: 1px solid #FF0000;
+    color: #FF0000;
+    font-family: 'Changa', sans-serif;
+    font-weight: bold;
+    font-size: 100;
+    width: 240px;
+    height: 80px;
+    transition: 1;
+    overflow: hidden;
 }
 
 .nbg-company-red {
@@ -15,9 +90,26 @@ body {
 }
 
 .redWords {
-    color: #FF0000;
+    color: #FF0000 !important;
 }
 
 .fontChanga {
     font-family: 'Changa', sans-serif;
+}
+
+.screenPosition {
+    margin: 10%;
+    padding: 40px;
+    border: #FF0000 solid 2px;
+    border-radius: 25px;
+}
+
+#roundImg {
+    border-radius: 5%;
+    border: #FF0000 solid 2px;
+}
+
+.textStyle {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 175%;
 }
