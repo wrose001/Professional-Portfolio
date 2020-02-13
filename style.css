@@ -113,3 +113,13 @@ button:before {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     line-height: 175%;
 }
+
+#iconRed {
+    color: #FF0000;
+}
+
+.card-header {
+    background: #FF0000 !important;
+    color: white;
+    text-align: center;
+}
