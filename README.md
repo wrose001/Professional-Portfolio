@@ -1,6 +1,6 @@
 # Professional-Portfolio
 
-This web application is a polished and updated version of my digital portfolio
+This web application is a polished and updated version of my digital portfolio.
 
 ### Included Files
 
@@ -23,14 +23,14 @@ This web application is a polished and updated version of my digital portfolio
 
 ## Images
 
-![Home](images/shot1) 
-![About](images/shot2) 
-![Experience](images/shot3) 
-![Contact](images/shot4) 
+![Home](/images/shot1) 
+![About](/images/shot2) 
+![Experience](/images/shot3) 
+![Contact](/images/shot4) 
 
 ## Built With
 
-Add info
+This app was built with HTML, CSS, and Bootstrap, with Google Fonts (Changa) and icons from Font Awesome injected.
 
 ## Contributing
 
@@ -40,7 +40,7 @@ Please make sure to update tests as appropriate.
 
 # Acknowledgments
 
-Many thanks to ...
+Many thanks to Calvin for his assistance with my transforming Resume button.
 
 
 
