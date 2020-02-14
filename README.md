@@ -23,10 +23,10 @@ This web application is a polished and updated version of my digital portfolio.
 
 ## Images
 
-![Home](./images/shot1) 
-![About](./images/shot2) 
-![Experience](./images/shot3) 
-![Contact](./images/shot4) 
+![Home](/images/shot1.png) 
+![About](/images/shot2.png) 
+![Experience](/images/shot3.png) 
+![Contact](/images/shot4.png) 
 
 ## Built With
 
