@@ -5,21 +5,28 @@ This web application is a polished and updated version of my digital portfolio
 ### Included Files
 
 * index.html
+* about.html
+* experience.html
+* contact.html
 * style.css
 * script.js
 * README.md
 * images
+* assets
 
 
 
 
 ## Deployment
 
-[]()
+[https://wrose001.github.io/Professional-Portfolio/](https://wrose001.github.io/Professional-Portfolio/)
 
 ## Images
 
-![]() 
+![Home](./images/shot1) 
+![About](./images/shot2) 
+![Experience](./images/shot3) 
+![Contact](./images/shot4) 
 
 ## Built With
 
